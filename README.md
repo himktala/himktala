@@ -1,6 +1,5 @@
 ### This account was made only to access GitHub's offerings and to deploy the mirrors of Kaertala.
-### I do not answer here, nor am I active. Here is a link to my git profile:
-### https://git.kaertala.com/root
+### I do not answer here, nor am I active.
 
 
 ### 🌍 **Links**:
