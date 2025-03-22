@@ -4,7 +4,4 @@
 
 ### 🌍 **Links**:
 ### [GitLab] → https://git.kaertala.com/root
-### [Twitter] → https://x.com/kaertala
-### [GitHub] → https://github.com/himktala
 ### [Website] → https://kaertala.com
-### [Discord] → https://discord.gg/zkaQVJwuju
