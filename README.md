@@ -1,7 +1,3 @@
-### This account was made only to access GitHub's offerings and to deploy the mirrors of Kaertala.
-### I do not answer here, nor am I active.
+### If you're working on something interesting, I’m always open to collaboration. Feel free to reach out 📨.
 
-
-### 🌍 **Links**:
-### [GitLab] → https://git.kaertala.com/root
-### [Website] → https://kaertala.com
+### Email: him@kaertala.com
